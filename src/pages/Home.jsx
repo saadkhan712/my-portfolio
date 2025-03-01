@@ -116,7 +116,7 @@ export const Home = () => {
                 transition={{ duration: 1 }}
                 className="text-[80px] sm:text-[80px] md:text-[225px] font-semibold w-full md:w-1/2 leading-none p-10 md:p-40 pt-0 pb-0 text-white max-w-full"
             >
-                Lets Grow Together
+                Let's Grow Together
             </motion.h1>
 
             <NavLink to="/contact" className="w-full flex justify-center md:block">
